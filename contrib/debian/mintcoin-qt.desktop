@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=LibertyCoin
+Comment=LibertyCoin P2P Cryptocurrency
+Comment[fr]=LibertyCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=LibertyCoin, eşten eşe kriptografik sanal para birimi
+Comment[es]=LibertyCoin, una criptomoneda P2P
+Exec=/usr/bin/libertycoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/libertycoin;
+Categories=Office;

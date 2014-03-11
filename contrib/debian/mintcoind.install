@@ -1,0 +1,2 @@
+debian/bin/libertycoind usr/bin
+src/libertycoind usr/lib/libertycoin
